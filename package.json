@@ -1,0 +1,16 @@
+{
+  "name": "tc",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ipld/dag-cbor": "^9.0.6",
+    "libsodium-wrappers": "^0.7.13"
+  }
+}
