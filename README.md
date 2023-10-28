@@ -1,4 +1,4 @@
-Download files using a ThirdCloud secret file
+Migration script to download files using a ThirdCloud secret file
 
 ```bash
 cd tc
